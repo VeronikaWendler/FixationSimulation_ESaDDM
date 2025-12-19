@@ -1,4 +1,4 @@
-% Modification of Script from Chi-Chung Ting
+% Modification of Script from Chih-Chung Ting
 % - Main script used to perform evidence accumulation for each trial
 % function needs to be manually adjusted depending on the model
 
