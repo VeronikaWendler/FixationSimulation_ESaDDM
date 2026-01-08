@@ -30,8 +30,8 @@ Finally, `combined_plotEmpiricalData.m` can be run to compare simulated and real
 data across all draws.
 
 **Posterior draw files:**
-- `garcia_replication_For_paper_11_posterior_draws.csv` → ESaDDM, no *z*
-- `garcia_replication_For_paper_8_posterior_draws.csv` → aDDM, no *z*
-- `garcia_replication_For_paper_6_posterior_draws.csv` → ESaDDM + *z*, *a* ~ OV
-- `garcia_replication_For_paper_5_posterior_draws.csv` → ESaDDM + *z*
-- `garcia_replication_For_paper_3_posterior_draws.csv` → aDDM + *z*
+- `OV_replication_For_paper_11_posterior_draws.csv` → ESaDDM, no *z*
+- `OV_replication_For_paper_8_posterior_draws.csv` → aDDM, no *z*
+- `OV_replication_For_paper_6_posterior_draws.csv` → ESaDDM + *z*, *a* ~ OV
+- `OV_replication_For_paper_5_posterior_draws.csv` → ESaDDM + *z*
+- `OV_replication_For_paper_3_posterior_draws.csv` → aDDM + *z*
